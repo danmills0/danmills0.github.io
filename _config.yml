@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 title: Daniel James Mills
 email: daniel.mills@ed.ac.uk
 # basic options
