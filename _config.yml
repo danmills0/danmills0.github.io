@@ -2,9 +2,12 @@
 theme: minima
 title: Daniel James Mills
 email: daniel.mills@ed.ac.uk
+
 # basic options
 author: Daniel Mills
 description: Personal website of Daniel Mills
 
 # Build settings
 markdown: kramdown
+
+github_username: danmills0
