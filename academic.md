@@ -14,7 +14,7 @@ layout: default
 
 ## Presentations
 
-[Quantum Physics and Logic 2017: Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) - [video](https://www.youtube.com/watch?v=vJGd3oCR7fc&index=12&list=PLSDabBQOlXxT4VtPXdKPCzMyt8NpTdh35)
+[Quantum Physics and Logic 2017: Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) - [VIDEO](https://www.youtube.com/watch?v=vJGd3oCR7fc&index=12&list=PLSDabBQOlXxT4VtPXdKPCzMyt8NpTdh35)
 
 [Quantum Simulation Models Workshop 2017: Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QSMW2017.pdf"}})
 
