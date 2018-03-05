@@ -5,3 +5,5 @@ I am currently a PhD student at the University of Edinburgh. Under the guidance 
 You can find full details about my experience at my [curriculum vitae]({{"/assets/CV.pdf"}})
 
 If you would like to be in touch feel free to email me at daniel.mills@ed.ac.uk
+
+[Link to another page](about)
