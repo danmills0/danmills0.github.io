@@ -8,4 +8,4 @@ I am currently a PhD student in the [Pervasive Parallelism centre for doctoral t
 
 You can find details about my experience at my [curriculum vitae]({{"/assets/CV.pdf"}}) while you may also wish to look over my [academic work](academic) or my [LinkedIn profile](https://www.linkedin.com/in/dan-mills) for further information.
 
-If you would like to be in touch feel free to email me at daniel.mills@ed.ac.uk
+If you would like to be in touch feel free to email me at daniel.mills@ed.ac.uk or come find me in office IF-5.19 of the Informatics building.
