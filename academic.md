@@ -24,4 +24,6 @@ layout: default
 
 ## Posters
 
+[Pervasive Parallelism Industrial Engagement 2018]({{/assets/iee_2018.pfd}}) - [HANDOUT]({{/assets/iee_2018_handout.pdf}})
+
 [Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017 - Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/TQC2017.pdf"}})
