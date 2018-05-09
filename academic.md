@@ -2,7 +2,9 @@
 layout: default
 ---
 
-[Homepage](./)
+{% comment %}
+{% [Homepage](./) %}
+{% endcomment %}
 
 # Academic
 
