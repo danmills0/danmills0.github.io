@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% [Homepage](./) %}
-
 # Academic
 
 ## Papers
