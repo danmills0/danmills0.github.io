@@ -4,7 +4,9 @@ layout: default
 
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
-I am currently a PhD student in the [Pervasive Parallelism centre for doctoral training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism) at the [University of Edinburgh School of Informatics](https://www.ed.ac.uk/informatics). Under the supervision of proffessor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics), I study Quantum computation with a particular focus on verification of quantum computers and classical simulation of quantum systems.
+I am currently a PhD student in the [Pervasive Parallelism centre for doctoral training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism) at the [University of Edinburgh School of Informatics](https://www.ed.ac.uk/informatics). Under the supervision of proffessor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics), I study Quantum computation.
+
+My particular focus is on the verification of near term quantum computers, where noise and architectural constraints are to be considered, and demonstrations of the superiority of quantum over classical computing. I also work on classical simulation of quantum systems, quantum cryptography and machine learning using quantum computers.
 
 You can find details about my experience at my [curriculum vitae]({{"/assets/CV.pdf"}}) while you may also wish to look over my [academic work](academic), my [LinkedIn profile](https://www.linkedin.com/in/dan-mills) or listen to me give a short introduction to my work below.
 
