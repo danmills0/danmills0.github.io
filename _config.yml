@@ -17,5 +17,3 @@ facebook_username: daniel.mills.7965
 
 pages_list:       
   Academic: '/academic'
-
-<small><a href="{{ '/academic'  }}">{{ Academic }}</a></small>
