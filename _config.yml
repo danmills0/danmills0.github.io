@@ -18,4 +18,4 @@ facebook_username: daniel.mills.7965
 pages_list:       
   Academic: '/academic'
 
-<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+<small><a href="{{ '/academic'  }}">{{ Academic }}</a></small>
