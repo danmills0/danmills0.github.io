@@ -12,6 +12,8 @@ layout: default
 
 [Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation](https://arxiv.org/abs/1704.01998) 
 
+***
+
 ## Presentations
 
 [QuIVER 2018: Verification of Quantum Superiority]({{"assets/QuIVER.pdf"}}) - I also co-organised the [event](https://danielmills390.wixsite.com/quiver)
@@ -24,8 +26,12 @@ layout: default
 
 [Pervasive Parallelism Lunch 2017: Quantum Computing - Some Interesting Bits and Bobs, and Squashed Misconceptions]({{"/assets/PPAR2017.pdf"}})
 
+***
+
 ## Posters
 
 [Pervasive Parallelism Industrial Engagement 2018]({{"/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/iee_2018_handout.pdf"}})
 
 [Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017 - Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/TQC2017.pdf"}})
+
+***
