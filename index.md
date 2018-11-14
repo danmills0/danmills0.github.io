@@ -4,8 +4,6 @@ layout: default
 
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
-## Introduction
-
 I am currently a PhD student in the [Pervasive Parallelism centre for doctoral training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism) at the [University of Edinburgh School of Informatics](https://www.ed.ac.uk/informatics). Under the supervision of proffessor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics), I study Quantum computation.
 
 ## Interests
@@ -14,7 +12,7 @@ My particular focus is on the verification of near term quantum computers, where
 
 You can find details about my experience at my [curriculum vitae]({{"/assets/CV.pdf"}}) while you may also wish to look over my [academic work](academic), my [LinkedIn profile](https://www.linkedin.com/in/dan-mills) or listen to me give a short introduction to my work below.
 
-<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=1_1xy5qhvj" width="500" height="356" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>
+<iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;&wid=1_1xy5qhvj" width="500" height="356" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe>  
 
 ## Contact
 
