@@ -16,6 +16,8 @@ layout: default
 
 ## Presentations
 
+[QuRLInG 2019: Verification of NISQ Devices]({{"assets/Verification_of_NISQ_Devices.pdf"}}) - I spoke as part of a group with my contribution being to the "Hypothesis Testing" section.
+
 [QuIVER 2018: Verification of Quantum Superiority]({{"assets/QuIVER.pdf"}}) - I also co-organised the [event](https://danielmills390.wixsite.com/quiver)
 
 [Pervasive Parallelism Lunch 2018: 5 years away - A history of quantum computing and the prospect of a near term superiority demonstration.]({{"/assets/PPAR2018.pdf"}})
@@ -29,6 +31,8 @@ layout: default
 ***
 
 ## Posters
+
+[Pervasive Parallelism Industrial Engagement 2019]({{"/assets/iee_2019.pdf"}})
 
 [Pervasive Parallelism Industrial Engagement 2018]({{"/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/iee_2018_handout.pdf"}})
 
