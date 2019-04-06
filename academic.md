@@ -30,7 +30,7 @@ layout: default
 
 [**Quantum Simulation Models Workshop 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QSMW2017.pdf"}})
 
-[Pervasive Parallelism Lunch 2017: Quantum Computing - Some Interesting Bits and Bobs, and Squashed Misconceptions]({{"/assets/PPAR2017.pdf"}})
+[**Pervasive Parallelism Lunch 2017:** Quantum Computing - Some Interesting Bits and Bobs, and Squashed Misconceptions]({{"/assets/PPAR2017.pdf"}})
 
 ***
 
