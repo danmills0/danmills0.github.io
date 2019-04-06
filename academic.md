@@ -18,7 +18,7 @@ layout: default
 
 ## Presentations
 
-[**ESA Workshop – Quantum Processing of Big Data: from quantum computing to earth observation:** The Training and Quantum Advantage of the Ising Born Machine]({{"assets/QIM_ESA_2019.pdf"}})
+[**ESA Workshop – Quantum Processing of Big Data: from quantum computing to earth observation:** The Training and Quantum Advantage of the Ising Born Machine]({{"assets/QIM_ESA_2019.pdf"}}) - I was an invited speaker
 
 [**QuRLInG 2019:** Verification of NISQ Devices]({{"assets/Verification_of_NISQ_Devices.pdf"}}) - I spoke as part of a group with my contribution being to the "Hypothesis Testing" section.
 
