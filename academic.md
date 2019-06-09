@@ -36,6 +36,8 @@ layout: default
 
 ## Posters
 
+[NISQ 2019 - The Superiority of Quantum Machine Learning on NISQ Technology]({{"/assets/NISQ2019.pdf"}})
+
 [Pervasive Parallelism Industrial Engagement 2019]({{"/assets/iee_2019.pdf"}})
 
 [Pervasive Parallelism Industrial Engagement 2018]({{"/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/iee_2018_handout.pdf"}})
