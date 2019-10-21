@@ -14,6 +14,8 @@ layout: default
 
 ## Presentations
 
+[Quantum Simulation and Computation 2019: The Born Supremacy - Quantum Advantage and Training of an Ising Born Machine]({{"/assets/QSC2019.pdf"}})
+
 [Pervasive Parallelism Lunch 2018: 5 years away - A history of quantum computing and the prospect of a near term superiority demonstration.]({{"/assets/PPAR2018.pdf"}})
 
 [Quantum Physics and Logic 2017: Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) - [VIDEO](https://www.youtube.com/watch?v=vJGd3oCR7fc&index=12&list=PLSDabBQOlXxT4VtPXdKPCzMyt8NpTdh35)
