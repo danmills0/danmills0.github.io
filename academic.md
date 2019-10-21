@@ -20,11 +20,13 @@ layout: default
 
 [**Quantum Simulation and Computation 2019:** The Born Supremacy - Quantum Advantage and Training of an Ising Born Machine]({{"/assets/QSC2019.pdf"}})
 
+[**QuHackEd:** Verification of NISQ Devices]({{/assets/QuHackEd2019.pdf}}) - I co-organised the [event](https://www.quhacked.com/)
+
 [**ESA Workshop – Quantum Processing of Big Data: from quantum computing to earth observation:** The Training and Quantum Advantage of the Ising Born Machine]({{"assets/QIM_ESA_2019.pdf"}}) - I was an invited speaker
 
 [**QuRLInG 2019:** Verification of NISQ Devices]({{"assets/Verification_of_NISQ_Devices.pdf"}}) - I spoke as part of a group with my contribution being to the "Hypothesis Testing" section.
 
-[**QuIVER 2018:** Verification of Quantum Superiority]({{"assets/QuIVER.pdf"}}) - I also co-organised the [event](https://danielmills390.wixsite.com/quiver)
+[**QuIVER 2018:** Verification of Quantum Superiority]({{"assets/QuIVER.pdf"}}) - I co-organised the [event](https://danielmills390.wixsite.com/quiver)
 
 [**Pervasive Parallelism Lunch 2018:** 5 years away - A history of quantum computing and the prospect of a near term superiority demonstration.]({{"/assets/PPAR2018.pdf"}})
 
