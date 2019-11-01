@@ -14,7 +14,7 @@ The focus of my work is on the verification of near term quantum computers, wher
 
 You can find details about my experience by following the links below:
 * A collection of my [academic work](academic), as well as my [Google Scholar](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=qAAWFFEAAAAJ&gmla=AJsN-F7wChVI6DrBgGym427YKNkwejw6Amx94HpJZXsw9zXw8C83iaJ4m_yuKKl_QU8X6fq24hGu-ENWt9vRzQjEA6D50Z1Tjxm2-5f0TVWWs3WJ4WQVqAufHCLmddyJg_sXCozcOmyy) and [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Mills%2C+D) profiles, may be of interest
-* My work work experience can be found in my [curriculum vitae]({{"/assets/CV.pdf"}}) or in my [LinkedIn profile](https://www.linkedin.com/in/dan-mills)
+* My work experience can be found in my [curriculum vitae]({{"/assets/CV.pdf"}}) or in my [LinkedIn profile](https://www.linkedin.com/in/dan-mills)
 
 For further details you may also like to watch me give a short introduction to my work below.
 
@@ -24,7 +24,7 @@ For further details you may also like to watch me give a short introduction to m
 
 ## Other Interests
 
-I organised [QuHackEd](https://www.quhacked.com/), the first quantum computing hackathon in Scotland, and enjoy attending other such events. I have a keen interest in science communication and journalism, having hosted my own science themed radio show on the [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. I'm also a keen maker and have worked in [the University of Edinburgh’s Community Makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager.
+I organised [QuHackEd](https://www.quhacked.com/), the first quantum computing hackathon in Scotland, and enjoy attending other such events. I have a keen interest in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. I'm also a keen maker and have worked in [the University of Edinburgh’s community makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager.
 
 ***
 
