@@ -22,6 +22,12 @@ For further details you may also like to watch me give a short introduction to m
 
 ***
 
+## Other Interests
+
+I organised [QuHackEd](https://www.quhacked.com/), the first quantum computing hackathon in Scotland, and enjoy attending other such events. I have a keen interest in science communication and journalism, having hosted my own science themed radio show on the [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. I'm also a keen maker and have worked in [the University of Edinburgh’s Community Makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager.
+
+***
+
 ## Contact
 
 If you would like to be in touch feel free to email me at daniel.mills - at - ed.ac.uk or come find me in office IF-5.19 of the [Informatics building](https://www.google.com/maps/place/Dugald+Stewart+Building,+Informatics+Forum,+Edinburgh+EH8+9AB/@55.9447509,-3.1881526,18.5z/data=!3m1!5s0x4887c78380a9954d:0x6f0e11144cdbe50c!4m13!1m7!3m6!1s0x4887c78380560aa5:0xabe2f9d4a73bf5f5!2sInformatics+Forum,+Edinburgh+EH8+9AB!3b1!8m2!3d55.9447576!4d-3.1874533!3m4!1s0x4887c7847f57fce7:0xa55424c3cecbf4c9!8m2!3d55.9450306!4d-3.1877087://www.google.com/maps/place/Informatics+Forum,+Edinburgh+EH8+9AB/@55.9447587,-3.1882289,18z/data=!3m1!4b1!4m5!3m4!1s0x4887c78380560aa5:0xabe2f9d4a73bf5f5!8m2!3d55.9447576!4d-3.1874533).
