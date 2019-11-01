@@ -40,12 +40,12 @@ layout: default
 
 ## Posters
 
-[NISQ 2019 - The Superiority of Quantum Machine Learning on NISQ Technology]({{"/assets/NISQ2019.pdf"}})
+[**NISQ 2019:** The Superiority of Quantum Machine Learning on NISQ Technology]({{"/assets/NISQ2019.pdf"}})
 
-[Pervasive Parallelism Industrial Engagement 2019]({{"/assets/iee_2019.pdf"}})
+[**Pervasive Parallelism Industrial Engagement 2019:** Verification and Utilisation of Noisy Intermediate Scale Quantum Technology]({{"/assets/iee_2019.pdf"}})
 
-[Pervasive Parallelism Industrial Engagement 2018]({{"/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/iee_2018_handout.pdf"}})
+[**Pervasive Parallelism Industrial Engagement 2018:** Verification of Early Stage Quantum Computation]({{"/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/iee_2018_handout.pdf"}})
 
-[Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017 - Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/TQC2017.pdf"}})
+[**Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/TQC2017.pdf"}})
 
 ***
