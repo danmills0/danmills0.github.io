@@ -24,7 +24,7 @@ For further details you may also like to watch me give a short introduction to m
 
 ## Other Interests
 
-I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://www.quhacked.com/), the first quantum computing hackathon in Scotland. Highlights from the event can be seen below. 
+I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://www.quhacked.com/), the first quantum computing hackathon in Scotland. 
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
