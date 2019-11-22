@@ -26,7 +26,7 @@ For further details you may also like to watch me give a short introduction to m
 
 I organised [QuHackEd](https://www.quhacked.com/), the first quantum computing hackathon in Scotland, and enjoy attending other such events. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I have a keen interest in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. I'm also a keen maker and have worked in [the University of Edinburgh’s community makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager.
 
