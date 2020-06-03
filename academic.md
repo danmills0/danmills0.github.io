@@ -22,7 +22,7 @@ layout: default
 
 [**Quantum Simulation and Computation 2019:** The Born Supremacy - Quantum Advantage and Training of an Ising Born Machine]({{"/assets/QSC2019.pdf"}})
 
-[**QuHackEd:** Verification of NISQ Devices]({{"/assets/QuHackEd2019.pdf"}}) - I co-organised the [event](https://www.quhacked.com/)
+[**QuHackEd:** Verification of NISQ Devices]({{"/assets/QuHackEd2019.pdf"}}) - I co-organised the [event](https://quhackedinfo.wixsite.com/mysite)
 
 [**ESA Workshop – Quantum Processing of Big Data: from quantum computing to earth observation:** The Training and Quantum Advantage of the Ising Born Machine]({{"assets/QIM_ESA_2019.pdf"}}) - I was an invited speaker
 
