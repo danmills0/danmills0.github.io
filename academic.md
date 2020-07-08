@@ -6,7 +6,7 @@ layout: default
 
 ## Papers
 
-[**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214)
+[**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214): [Published in NPJ Quantum Information](https://www.nature.com/articles/s41534-020-00288-9)
 
 [**Methods for Classically Simulating Noisy Networked Quantum Architectures**](https://arxiv.org/abs/1803.04167): [Published in Quantum Science and Technology](https://doi.org/10.1088/2058-9565/ab54a4)
 
