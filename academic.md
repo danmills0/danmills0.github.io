@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
+title: Papers and Presentations
+permalink: /academic/
 ---
 
-# Academic
-
-## Papers
+# Papers
 
 [**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214)
 
@@ -12,9 +12,7 @@ layout: default
 
 [**Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation**](https://arxiv.org/abs/1704.01998): [Extended abstract published in the proceedings of Quantum Physics and Logic 2017](http://eptcs.web.cse.unsw.edu.au/paper.cgi?QPL2017.14)
 
-***
-
-## Presentations
+# Presentations
 
 [**LFCS PhD Lunch:** Verification of Near Term Quantum Computers]({{"/assets/LFCS_Student_Lunch.pdf"}})
 
@@ -36,9 +34,7 @@ layout: default
 
 [**Pervasive Parallelism Lunch 2017:** Quantum Computing - Some Interesting Bits and Bobs, and Squashed Misconceptions]({{"/assets/PPAR2017.pdf"}})
 
-***
-
-## Posters
+# Posters
 
 [**IWQC 2019:** Application Motivated Benchmarking of Quantum Computation and Compilation]({{"/assets/IWQC2019.pdf"}})
 
@@ -49,5 +45,3 @@ layout: default
 [**Pervasive Parallelism Industrial Engagement 2018:** Verification of Early Stage Quantum Computation]({{"/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/iee_2018_handout.pdf"}})
 
 [**Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/TQC2017.pdf"}})
-
-***
