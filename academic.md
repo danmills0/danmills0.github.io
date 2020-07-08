@@ -6,6 +6,8 @@ layout: default
 
 ## Papers
 
+[**Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack**](https://arxiv.org/abs/2006.01273)
+
 [**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214): [Published in NPJ Quantum Information](https://www.nature.com/articles/s41534-020-00288-9)
 
 [**Methods for Classically Simulating Noisy Networked Quantum Architectures**](https://arxiv.org/abs/1803.04167): [Published in Quantum Science and Technology](https://doi.org/10.1088/2058-9565/ab54a4)
@@ -20,7 +22,7 @@ layout: default
 
 [**Quantum Simulation and Computation 2019:** The Born Supremacy - Quantum Advantage and Training of an Ising Born Machine]({{"/assets/QSC2019.pdf"}})
 
-[**QuHackEd:** Verification of NISQ Devices]({{"/assets/QuHackEd2019.pdf"}}) - I co-organised the [event](https://www.quhacked.com/)
+[**QuHackEd:** Verification of NISQ Devices]({{"/assets/QuHackEd2019.pdf"}}) - I co-organised the [event](https://quhackedinfo.wixsite.com/mysite)
 
 [**ESA Workshop – Quantum Processing of Big Data: from quantum computing to earth observation:** The Training and Quantum Advantage of the Ising Born Machine]({{"assets/QIM_ESA_2019.pdf"}}) - I was an invited speaker
 
