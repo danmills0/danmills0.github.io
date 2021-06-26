@@ -6,7 +6,7 @@ layout: default
 
 ## Papers
 
-[**Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack**](https://arxiv.org/abs/2006.01273)
+[**Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack**](https://arxiv.org/abs/2006.01273): [Published in Quantum](https://quantum-journal.org/papers/q-2021-03-22-415/)
 
 [**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214): [Published in NPJ Quantum Information](https://www.nature.com/articles/s41534-020-00288-9)
 

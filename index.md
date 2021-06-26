@@ -4,7 +4,15 @@ layout: default
 
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
-I am currently a PhD student in the [Pervasive Parallelism centre for doctoral training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism) at the [University of Edinburgh School of Informatics](https://www.ed.ac.uk/informatics). Under the supervision of professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics), I study Quantum computation.
+I am currently a research scientist at [Cambridge Quantum
+Computing](https://cambridgequantum.com/), with interests in benchmarking,
+secure computing and quantum software. I completed my PhD in the [Pervasive
+Parallelism centre for doctoral
+training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism)
+at the [University of Edinburgh School of
+Informatics](https://www.ed.ac.uk/informatics) under the supervision of
+professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the
+[quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics).
 
 ***
 
@@ -36,6 +44,6 @@ I'm also a keen maker and have worked in [the University of Edinburgh’s commun
 
 ## Contact
 
-If you would like to be in touch feel free to email me at daniel.mills - at - ed.ac.uk or come find me in office IF-5.19 of the [Informatics building](https://www.google.com/maps/place/Dugald+Stewart+Building,+Informatics+Forum,+Edinburgh+EH8+9AB/@55.9447509,-3.1881526,18.5z/data=!3m1!5s0x4887c78380a9954d:0x6f0e11144cdbe50c!4m13!1m7!3m6!1s0x4887c78380560aa5:0xabe2f9d4a73bf5f5!2sInformatics+Forum,+Edinburgh+EH8+9AB!3b1!8m2!3d55.9447576!4d-3.1874533!3m4!1s0x4887c7847f57fce7:0xa55424c3cecbf4c9!8m2!3d55.9450306!4d-3.1877087://www.google.com/maps/place/Informatics+Forum,+Edinburgh+EH8+9AB/@55.9447587,-3.1882289,18z/data=!3m1!4b1!4m5!3m4!1s0x4887c78380560aa5:0xabe2f9d4a73bf5f5!8m2!3d55.9447576!4d-3.1874533).
+If you would like to be in touch feel free to email me at daniel.mills - at - cambridgequantum.com.
 
 ***
