@@ -24,6 +24,10 @@ layout: default
 
 ## Presentations
 
+[**EQTC 2021:** TKET Tutorial](https://github.com/CQCL/EQTC-TKET-TUTORIAL)
+
+[**IEEE Quantum Week 2022:** Developing and Executing Error-mitigated NISQ Algorithms across Devices and Simulators](https://github.com/CQCL/IEEE_Quantum_Week)
+
 [**LFCS PhD Lunch:** Verification of Near Term Quantum Computers]({{"/assets/LFCS_Student_Lunch.pdf"}})
 
 [**Quantum Simulation and Computation 2019:** The Born Supremacy - Quantum Advantage and Training of an Ising Born Machine]({{"/assets/QSC2019.pdf"}})
