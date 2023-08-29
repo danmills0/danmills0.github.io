@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Academic
+# Academic Work
 
 ## Papers
 
@@ -18,7 +18,7 @@ layout: default
 
 [**Methods for Classically Simulating Noisy Networked Quantum Architectures**](https://arxiv.org/abs/1803.04167): [Published in Quantum Science and Technology](https://doi.org/10.1088/2058-9565/ab54a4)
 
-[**Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation**](https://arxiv.org/abs/1704.01998): [Extended abstract published in the proceedings of Quantum Physics and Logic 2017](http://eptcs.web.cse.unsw.edu.au/paper.cgi?QPL2017.14)
+[**Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation**](https://arxiv.org/abs/1704.01998): [Published in the proceedings of Quantum Physics and Logic 2017](http://eptcs.web.cse.unsw.edu.au/paper.cgi?QPL2017.14)
 
 ***
 
