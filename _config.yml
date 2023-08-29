@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 title: Daniel James Mills
-email: daniel.mills@ed.ac.uk
+email: daniel.mills@quantinuum.com
 
 # basic options
 author: Daniel Mills
@@ -12,5 +12,5 @@ markdown: kramdown
 
 #github_username: danmills0
 linkedin_username: dan-mills
-facebook_username: daniel.mills.7965
+# facebook_username: daniel.mills.7965
 #twitter_username: danmills0
