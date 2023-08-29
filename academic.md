@@ -6,6 +6,12 @@ layout: default
 
 ## Papers
 
+[**Distributing circuits over heterogeneous, modular quantum computing network architectures**](https://arxiv.org/abs/2305.14148)
+
+[**Entanglement-efficient bipartite-distributed quantum computing with entanglement-assisted packing processes**](https://arxiv.org/abs/2212.12688)
+
+[**Volumetric Benchmarking of Error Mitigation with Qermit**](https://arxiv.org/abs/2204.09725): [Published in Quantum](https://https://quantum-journal.org/papers/q-2023-07-13-1059/)
+
 [**Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack**](https://arxiv.org/abs/2006.01273): [Published in Quantum](https://quantum-journal.org/papers/q-2021-03-22-415/)
 
 [**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214): [Published in NPJ Quantum Information](https://www.nature.com/articles/s41534-020-00288-9)
