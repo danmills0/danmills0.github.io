@@ -28,13 +28,17 @@ layout: default
 
 [**ICTP Hackathon 2023:** Introduction to Quantum Error Mitigation](https://youtu.be/nPlq7_E5OwA?feature=shared)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nPlq7_E5OwA?si=Qr9H5wkEjOrZr56I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nPlq7_E5OwA?si=Qr9H5wkEjOrZr56I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 [**APS March 2022:** Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack]({{"/assets/APS_2022.pdf"}})
 
+[**IEEE Quantum Week 2022:** Developing and Executing Error-mitigated NISQ Algorithms across Devices and Simulators](https://github.com/CQCL/IEEE_Quantum_Week)
+
 [**EQTC 2021:** TKET Tutorial](https://github.com/CQCL/EQTC-TKET-TUTORIAL)
 
-[**IEEE Quantum Week 2022:** Developing and Executing Error-mitigated NISQ Algorithms across Devices and Simulators](https://github.com/CQCL/IEEE_Quantum_Week)
+[**Quantum Conversations:** Benchmarking Near Term Quantum Computers](https://youtu.be/Il9Xk8OyL-Q?feature=shared&t=4705)
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Il9Xk8OyL-Q?si=tHb0KRszP-_ue6y6&amp;start=4705" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 [**LFCS PhD Lunch:** Verification of Near Term Quantum Computers]({{"/assets/LFCS_Student_Lunch.pdf"}})
 
