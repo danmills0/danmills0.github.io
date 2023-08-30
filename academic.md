@@ -24,6 +24,14 @@ layout: default
 
 ## Presentations
 
+[**IWQC 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQC_DQC_2023.pdf"}})
+
+[**ICTP Hackathon 2023:** Introduction to Quantum Error Mitigation](https://youtu.be/nPlq7_E5OwA?feature=shared)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nPlq7_E5OwA?si=Qr9H5wkEjOrZr56I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[**APS March 2022:** Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack]({{"/assets/APS_2022.pdf"}})
+
 [**EQTC 2021:** TKET Tutorial](https://github.com/CQCL/EQTC-TKET-TUTORIAL)
 
 [**IEEE Quantum Week 2022:** Developing and Executing Error-mitigated NISQ Algorithms across Devices and Simulators](https://github.com/CQCL/IEEE_Quantum_Week)
