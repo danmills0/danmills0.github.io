@@ -1,11 +1,11 @@
 # theme: jekyll-theme-minimal
 theme: minima
-title: Daniel James Mills
+title: Dan Mills
 email: daniel.mills@quantinuum.com
 
 # basic options
-author: Daniel Mills
-description: Personal website of Daniel Mills
+author: Dan Mills
+description: Personal website of Dan Mills
 
 # Build settings
 markdown: kramdown

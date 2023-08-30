@@ -5,7 +5,7 @@ layout: default
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
 I am currently Research Scientist at [Quantinuum](https://www.quantinuum.com/).
-I am interested in techniques for extracting as much power from near term
+I am interested primarily in software driven techniques for extracting as much power from near term
 quantum devices as possible. 
 
 I completed my PhD in the [Pervasive
@@ -28,7 +28,7 @@ classical devices, and the use of software to optimally extract computational
 power from such devices.
 
 You can find details about my experience by following the links below:
-* A collection of my [academic work](academic), as well as my [Google Scholar](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=qAAWFFEAAAAJ&gmla=AJsN-F7wChVI6DrBgGym427YKNkwejw6Amx94HpJZXsw9zXw8C83iaJ4m_yuKKl_QU8X6fq24hGu-ENWt9vRzQjEA6D50Z1Tjxm2-5f0TVWWs3WJ4WQVqAufHCLmddyJg_sXCozcOmyy) and [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Mills%2C+D) profiles, may be of interest
+* A collection of my [academic work](academic), as well as my [Google Scholar](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=qAAWFFEAAAAJ&gmla=AJsN-F7wChVI6DrBgGym427YKNkwejw6Amx94HpJZXsw9zXw8C83iaJ4m_yuKKl_QU8X6fq24hGu-ENWt9vRzQjEA6D50Z1Tjxm2-5f0TVWWs3WJ4WQVqAufHCLmddyJg_sXCozcOmyy) and [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Mills%2C+D) profiles.
 * My work experience can be found in my [curriculum vitae]({{"/assets/CV.pdf"}}) or in my [LinkedIn profile](https://www.linkedin.com/in/dan-mills)
 
 ***
