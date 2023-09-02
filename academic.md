@@ -6,21 +6,35 @@ layout: default
 
 ## Papers
 
+Below are my publised papers and preprints, in chronological order, with my favorite figure taken out of context.
+
 [**Distributing circuits over heterogeneous, modular quantum computing network architectures**](https://arxiv.org/abs/2305.14148)
 
 ![pytket dqc paper]({{"/assets/paper_pictures/pytket_dqc.png"}})
 
 [**Entanglement-efficient bipartite-distributed quantum computing with entanglement-assisted packing processes**](https://arxiv.org/abs/2212.12688)
 
+![embedding paper]({{"/assets/paper_pictures/embedding.png"}})
+
 [**Volumetric Benchmarking of Error Mitigation with Qermit**](https://arxiv.org/abs/2204.09725): [Published in Quantum](https://https://quantum-journal.org/papers/q-2023-07-13-1059/)
+
+![qermit paper]({{"/assets/paper_pictures/qermit.png"}})
 
 [**Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack**](https://arxiv.org/abs/2006.01273): [Published in Quantum](https://quantum-journal.org/papers/q-2021-03-22-415/)
 
+![benchmarking paper]({{"/assets/paper_pictures/benchmarking.png"}})
+
 [**The Born Supremacy: Quantum Advantage and Training of an Ising Born Machine**](https://arxiv.org/abs/1904.02214): [Published in NPJ Quantum Information](https://www.nature.com/articles/s41534-020-00288-9)
+
+![born paper]({{"/assets/paper_pictures/born.png"}})
 
 [**Methods for Classically Simulating Noisy Networked Quantum Architectures**](https://arxiv.org/abs/1803.04167): [Published in Quantum Science and Technology](https://doi.org/10.1088/2058-9565/ab54a4)
 
+![nqit paper]({{"/assets/paper_pictures/nqit.png"}})
+
 [**Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation**](https://arxiv.org/abs/1704.01998): [Published in the proceedings of Quantum Physics and Logic 2017](http://eptcs.web.cse.unsw.edu.au/paper.cgi?QPL2017.14)
+
+![iqp paper]({{"/assets/paper_pictures/iqp.png"}})
 
 ***
 
@@ -60,7 +74,7 @@ Below are a selection of public talks which I have given, along with recordings 
 
 [**Quantum Physics and Logic 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vJGd3oCR7fc?si=kTymfdVqzVhlWaDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vJGd3oCR7fc?si=kTymfdVqzVhlWaDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><p>
 
 [**Quantum Simulation Models Workshop 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QSMW2017.pdf"}})
 
