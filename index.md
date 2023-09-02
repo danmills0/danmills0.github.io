@@ -8,13 +8,13 @@ I am currently Research Scientist at [Quantinuum](https://www.quantinuum.com/).
 I am interested primarily in software driven techniques for extracting as much power from near term
 quantum devices as possible. 
 
-I completed my PhD in the [Pervasive
-Parallelism centre for doctoral
+I completed my PhD in the [Pervasive Parallelism centre for doctoral
 training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism)
 at the [University of Edinburgh School of
 Informatics](https://www.ed.ac.uk/informatics) under the supervision of
 professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the
 [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics).
+I give a brief introduction to my work below.
 
 <p align="center"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&&wid=1_1xy5qhvj" width="500" height="356" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe></p>
 
@@ -44,6 +44,9 @@ I'm also a keen maker and have worked in [the University of Edinburgh’s commun
 I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. 
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+I also enjoy a selection of sports, in particular cycling, swimming, football, climbing and squash.
+I'm happy to give you a game of pretty much anything though!
 
 ***
 

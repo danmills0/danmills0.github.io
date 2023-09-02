@@ -8,6 +8,8 @@ layout: default
 
 [**Distributing circuits over heterogeneous, modular quantum computing network architectures**](https://arxiv.org/abs/2305.14148)
 
+![pytket dqc paper]({{"/assets/paper_pictures/pytket_dqc.png"}})
+
 [**Entanglement-efficient bipartite-distributed quantum computing with entanglement-assisted packing processes**](https://arxiv.org/abs/2212.12688)
 
 [**Volumetric Benchmarking of Error Mitigation with Qermit**](https://arxiv.org/abs/2204.09725): [Published in Quantum](https://https://quantum-journal.org/papers/q-2023-07-13-1059/)
@@ -23,6 +25,8 @@ layout: default
 ***
 
 ## Presentations
+
+Below are a selection of public talks which I have given, along with recordings where I have access to them.
 
 [**IWQC 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQC_DQC_2023.pdf"}})
 
@@ -54,7 +58,9 @@ layout: default
 
 [**Pervasive Parallelism Lunch 2018:** 5 years away - A history of quantum computing and the prospect of a near term superiority demonstration.]({{"/assets/PPAR2018.pdf"}})
 
-[**Quantum Physics and Logic 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) - [VIDEO](https://www.youtube.com/watch?v=vJGd3oCR7fc&index=12&list=PLSDabBQOlXxT4VtPXdKPCzMyt8NpTdh35)
+[**Quantum Physics and Logic 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJGd3oCR7fc?si=kTymfdVqzVhlWaDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [**Quantum Simulation Models Workshop 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QSMW2017.pdf"}})
 
