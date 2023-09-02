@@ -6,7 +6,7 @@ layout: default
 
 ## Papers
 
-Below are my publised papers and preprints, in chronological order, with my favorite figure taken out of context.
+Below are my publised papers and preprints, in reverse chronological order, with some out of context figures.
 
 [**Distributing circuits over heterogeneous, modular quantum computing network architectures**](https://arxiv.org/abs/2305.14148)
 
@@ -40,7 +40,7 @@ Below are my publised papers and preprints, in chronological order, with my favo
 
 ## Presentations
 
-Below are a selection of public talks which I have given, along with recordings where I have access to them.
+Below are a selection of my public talks, along with recordings where they exist.
 
 [**IWQC 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQC_DQC_2023.pdf"}})
 
@@ -74,7 +74,7 @@ Below are a selection of public talks which I have given, along with recordings 
 
 [**Quantum Physics and Logic 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QPL2017.pdf"}}) 
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vJGd3oCR7fc?si=kTymfdVqzVhlWaDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vJGd3oCR7fc?si=kTymfdVqzVhlWaDy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 [**Quantum Simulation Models Workshop 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/QSMW2017.pdf"}})
 
