@@ -84,18 +84,18 @@ Below are a selection of my public talks, along with recordings where they exist
 
 ## Posters
 
-[**QIP 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Network Architectures]({{"/posters/assets/qip2023.pdf"}})
+[**QIP 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Network Architectures]({{"/assets/posters/qip2023.pdf"}})
 
-[**BQIT 2022:** Volumetric Benchmarking of Error Mitigation with Qermit]({{"/posters/assets/bqit2022.pdf'}})
+[**BQIT 2022:** Volumetric Benchmarking of Error Mitigation with Qermit]({{"/assets/posters/bqit2022.pdf"}})
 
-[**IWQC 2019:** Application Motivated Benchmarking of Quantum Computation and Compilation]({{"/posters/assets/IWQC2019.pdf"}})
+[**IWQC 2019:** Application Motivated Benchmarking of Quantum Computation and Compilation]({{"/assets/posters/IWQC2019.pdf"}})
 
-[**NISQ 2019:** The Superiority of Quantum Machine Learning on NISQ Technology]({{"/posters/assets/NISQ2019.pdf"}})
+[**NISQ 2019:** The Superiority of Quantum Machine Learning on NISQ Technology]({{"/assets/posters/NISQ2019.pdf"}})
 
-[**Pervasive Parallelism Industrial Engagement 2019:** Verification and Utilisation of Noisy Intermediate Scale Quantum Technology]({{"/posters/assets/iee_2019.pdf"}})
+[**Pervasive Parallelism Industrial Engagement 2019:** Verification and Utilisation of Noisy Intermediate Scale Quantum Technology]({{"/assets/posters/iee_2019.pdf"}})
 
-[**Pervasive Parallelism Industrial Engagement 2018:** Verification of Early Stage Quantum Computation]({{"/posters/assets/iee_2018.pdf"}}) - [HANDOUT]({{"/posters/assets/iee_2018_handout.pdf"}})
+[**Pervasive Parallelism Industrial Engagement 2018:** Verification of Early Stage Quantum Computation]({{"/assets/posters/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/posters/iee_2018_handout.pdf"}})
 
-[**Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/posters/assets/TQC2017.pdf"}})
+[**Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/posters/TQC2017.pdf"}})
 
 ***
