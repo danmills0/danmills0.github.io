@@ -16,7 +16,7 @@ professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the
 [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics).
 I give a brief introduction to my work below.
 
-<p align="center"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&&wid=1_1xy5qhvj" width="500" height="356" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe></p>
+<p align="center"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&&wid=1_1xy5qhvj" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe></p>
 
 ***
 
@@ -32,6 +32,8 @@ power from such devices.
 You can find details about my experience by following the links below:
 * A collection of my [academic work](academic), as well as my [Google Scholar](https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=qAAWFFEAAAAJ&gmla=AJsN-F7wChVI6DrBgGym427YKNkwejw6Amx94HpJZXsw9zXw8C83iaJ4m_yuKKl_QU8X6fq24hGu-ENWt9vRzQjEA6D50Z1Tjxm2-5f0TVWWs3WJ4WQVqAufHCLmddyJg_sXCozcOmyy) and [arXiv](https://arxiv.org/search/quant-ph?searchtype=author&query=Mills%2C+D) profiles.
 * My work experience can be found in my [curriculum vitae]({{"/assets/CV.pdf"}}) or in my [LinkedIn profile](https://www.linkedin.com/in/dan-mills)
+
+I have also contributed to the design and development of several open source software packages, including [Qermit](https://cqcl.github.io/Qermit/) and [pytket-dqc](https://cqcl.github.io/pytket-dqc/).
 
 ***
 
