@@ -42,7 +42,7 @@ Below are my publised papers and preprints, in reverse chronological order, with
 
 Below are a selection of my public talks, along with recordings where they exist.
 
-[**Quantum Buisiness Europe**]({{"/assets/Dan_Mills_Quantum_Business_Europe_2023.pdf}})
+[**Quantum Buisiness Europe:** Best practices in running quantum algorithms on NISQ devices]({{"/assets/Dan_Mills_Quantum_Business_Europe_2023.pdf"}})
 
 [**IWQC 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQC_DQC_2023.pdf"}})
 
