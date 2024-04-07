@@ -4,6 +4,8 @@ layout: default
 
 # Presentations
 
+***
+
 ## Talks
 
 Below are a selection of my public talks, along with recordings where they exist.
@@ -69,5 +71,3 @@ Below are a selection of my public talks, along with recordings where they exist
 [**Pervasive Parallelism Industrial Engagement 2018:** Verification of Early Stage Quantum Computation]({{"/assets/posters/iee_2018.pdf"}}) - [HANDOUT]({{"/assets/posters/iee_2018_handout.pdf"}})
 
 [**Theoretical Quantum Computing 2017 & Trustworthy Quantum Computing 2017:** Information Theoretically Secure Hypothesis Test for Temporally Unstructured Quantum Computation]({{"/assets/posters/TQC2017.pdf"}})
-
-***
