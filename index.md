@@ -8,18 +8,6 @@ I am currently Research Scientist at [Quantinuum](https://www.quantinuum.com/).
 I am interested primarily in software driven techniques for extracting as much power from near term
 quantum devices as possible. 
 
-I completed my PhD in the [Pervasive Parallelism centre for doctoral
-training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism)
-at the [University of Edinburgh School of
-Informatics](https://www.ed.ac.uk/informatics) under the supervision of
-professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the
-[quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics).
-I give a brief introduction to my work below.
-
-<p align="center"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&&wid=1_1xy5qhvj" width="500" height="356" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe></p>
-
-My thesis was titled [Benchmarking, Verifying and Utilising Near Term Quantum Technology](https://era.ed.ac.uk/handle/1842/38327).
-
 ***
 
 ## Academic Interests
@@ -38,6 +26,20 @@ You can find details about my experience by following the links below:
 I have also contributed to the design and development of several open source software packages, including [Qermit](https://cqcl.github.io/Qermit/) and [pytket-dqc](https://cqcl.github.io/pytket-dqc/).
 
 ***
+
+## Doctoral Studies
+
+I completed my PhD in the [Pervasive Parallelism centre for doctoral
+training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism)
+at the [University of Edinburgh School of
+Informatics](https://www.ed.ac.uk/informatics) under the supervision of
+professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the
+[quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics).
+I give a brief introduction to my work below.
+
+<p align="center"><iframe id="kaltura_player" src="https://cdnapisec.kaltura.com/p/2010292/sp/201029200/embedIframeJs/uiconf_id/32599141/partner_id/2010292?iframeembed=true&playerId=kaltura_player&entry_id=1_cz9jh0g2&flashvars[streamerType]=auto&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&&wid=1_1xy5qhvj" width="500" height="356" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0" title="Kaltura Player"></iframe></p>
+
+My thesis was titled [Benchmarking, Verifying and Utilising Near Term Quantum Technology](https://era.ed.ac.uk/handle/1842/38327).
 
 ## Other Interests
 
