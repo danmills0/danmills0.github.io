@@ -4,11 +4,12 @@ layout: default
 
 # Presentations
 
+Below are a selection of my public presentations, along with
+links to pdfs of the presentations, and recordings where they exist.
+
 ***
 
 ## Talks
-
-Below are a selection of my public talks, along with recordings where they exist.
 
 [**IWQCS 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQCS_2023.pdf"}})
 
