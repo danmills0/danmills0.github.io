@@ -5,7 +5,7 @@ layout: default
 # Presentations
 
 Below are a selection of my public presentations, along with
-links to pdfs of the presentations, and recordings where they exist.
+links to relevant PDFs, and recordings where they exist.
 
 ***
 
