@@ -4,7 +4,7 @@ layout: default
 
 # Publications
 
-Below are my publised papers and preprints, in reverse chronological order, with some out of context figures.
+Below are my published papers and preprints, in reverse chronological order, with some relevant but out of context figures.
 
 [**Quantum Algorithm Exploration using Application-Oriented Performance Benchmarks**](https://arxiv.org/abs/2402.08985)
 
