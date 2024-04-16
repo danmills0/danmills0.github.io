@@ -18,7 +18,7 @@ Below are my published papers and preprints, in reverse chronological order, wit
 
 ![embedding paper]({{"/assets/paper_pictures/embedding.png"}})
 
-[**Volumetric Benchmarking of Error Mitigation with Qermit**](https://arxiv.org/abs/2204.09725): [Published in Quantum](https://https://quantum-journal.org/papers/q-2023-07-13-1059/)
+[**Volumetric Benchmarking of Error Mitigation with Qermit**](https://arxiv.org/abs/2204.09725): [Published in Quantum](https://quantum-journal.org/papers/q-2023-07-13-1059/)
 
 ![qermit paper]({{"/assets/paper_pictures/qermit.png"}})
 
