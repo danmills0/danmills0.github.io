@@ -11,6 +11,8 @@ links to relevant PDFs, and recordings where they exist.
 
 ## Talks
 
+[**Quantum Benchmarks 2024:** Benchmarking the Quantinuum Stack]({{"/assets/teratec_2024.pdf"}})
+
 [**IWQCS 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQCS_2023.pdf"}})
 
 [**EQTC 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/EQTC_2023.pdf"}})
