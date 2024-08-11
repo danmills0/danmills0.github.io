@@ -10,7 +10,7 @@ Below are my published papers and preprints, in reverse chronological order, wit
 
 ![qedc benchmarking paper]({{"/assets/paper_pictures/qedc_benchmarking.png"}})
 
-[**Distributing circuits over heterogeneous, modular quantum computing network architectures**](https://arxiv.org/abs/2305.14148): [Published in Quantum Science and Technology](https://iopscience.iop.org/article/10.1088/2058-9565/ad6734
+[**Distributing circuits over heterogeneous, modular quantum computing network architectures**](https://arxiv.org/abs/2305.14148): [Published in Quantum Science and Technology](https://iopscience.iop.org/article/10.1088/2058-9565/ad6734)
 
 ![pytket dqc paper]({{"/assets/paper_pictures/pytket_dqc.png"}}))
 

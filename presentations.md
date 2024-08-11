@@ -11,7 +11,7 @@ links to relevant PDFs, and recordings where they exist.
 
 ## Talks
 
-[**Quantum Benchmarks 2024:** Benchmarking the Quantinuum Stack]({{"/assets/teratec_2024.pdf"}})
+[**Quantum Benchmarks 2024:** Benchmarking the Quantinuum Stack]({{"/assets/teratec_2024.pdf"}}) [Presentation](https://teratec.eu/activites_quantiques/TQCI_240605_programme.html)
 
 [**IWQCS 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Networks]({{"/assets/IWQCS_2023.pdf"}})
 

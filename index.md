@@ -4,7 +4,7 @@ layout: default
 
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
-I am a Research Scientist at [Quantinuum](https://www.quantinuum.com/), interested
+I am a Senior Research Scientist at [Quantinuum](https://www.quantinuum.com/), interested
 primarily in software driven techniques for extracting power from near term
 quantum devices. 
 
