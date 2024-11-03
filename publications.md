@@ -6,6 +6,10 @@ layout: default
 
 Below are my published papers and preprints, in reverse chronological order, with some relevant but out of context figures.
 
+[**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**](https://arxiv.org/abs/2410.24133)
+
+![ocvqc paper]({{"/assets/paper_pictures/ocvqc.png"}})
+
 [**Quantum Algorithm Exploration using Application-Oriented Performance Benchmarks**](https://arxiv.org/abs/2402.08985)
 
 ![qedc benchmarking paper]({{"/assets/paper_pictures/qedc_benchmarking.png"}})
