@@ -5,7 +5,7 @@ layout: default
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
 I am a Senior Research Scientist at [Quantinuum](https://www.quantinuum.com/), interested
-primarily in software driven techniques for extracting power from near term
+primarily in software driven techniques for improving the computational power of
 quantum devices. 
 
 ***
@@ -13,11 +13,9 @@ quantum devices.
 ## Academic Interests
 
 I am interested in benchmarking quantum devices, mitigating
-errors arising in quantum processing units, classical simulation of quantum
-computing, secure and distributed quantum computation, the theoretical
-foundation of the potential for near term quantum computers to outperform
-classical devices, and the use of software to optimally extract computational
-power from such devices.
+errors arising in quantum processing units, secure and distributed quantum computation, the theoretical
+foundation of the potential for quantum computers to outperform
+classical devices, and circuit optimisation.
 
 You can find details about my experience by following the links below:
 * A collection of my [presentations](presentations) and [publications](publications)
@@ -35,7 +33,7 @@ I completed my PhD in the [Pervasive Parallelism centre for doctoral
 training](http://web.inf.ed.ac.uk/infweb/student-services/cdt/pervasive-parallelism)
 at the [University of Edinburgh School of
 Informatics](https://www.ed.ac.uk/informatics) under the supervision of
-professor [Elham Kashefi](https://ekashefi.wordpress.com/), and as part of the
+professor [Elham Kashefi](https://scholar.google.com/citations?user=oXpgxTIAAAAJ&hl=en), and as part of the
 [quantum informatics group](http://web.inf.ed.ac.uk/quantum-informatics).
 I give a brief introduction to my work below.
 
@@ -47,16 +45,13 @@ My thesis was titled [Benchmarking, Verifying and Utilising Near Term Quantum Te
 
 ## Other Interests
 
-I have a keen interest in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. 
+I am a keen supporter of the [Unitary Foundattion](https://unitary.foundation/), and am a member of the advisory board.
 
-I'm also a keen maker and have worked in [the University of Edinburgh’s community makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager.
-
-I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. 
+I have a keen interest in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. In that vein I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. 
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
-I also enjoy a selection of sports, in particular cycling, swimming, football, climbing and squash.
-I'm happy to give you a game of pretty much anything though!
+In my own time I'm a keen maker and have worked in [the University of Edinburgh’s community makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager. I also enjoy a selection of sports, in particular cycling, swimming, football, climbing and squash. I'm happy to give you a game of pretty much anything though!
 
 ***
 
