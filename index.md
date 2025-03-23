@@ -5,7 +5,7 @@ layout: default
 ![dan mills picture]({{"/assets/profile-pic.jpg"}})
 
 I am a Senior Research Scientist at [Quantinuum](https://www.quantinuum.com/), interested
-primarily in software driven techniques for improving the computational power of
+primarily in software driven techniques for increasing the computational power of
 quantum devices. 
 
 ***
@@ -47,7 +47,9 @@ My thesis was titled [Benchmarking, Verifying and Utilising Near Term Quantum Te
 
 I am a keen supporter of the [Unitary Foundattion](https://unitary.foundation/), and am a member of the advisory board.
 
-I have a keen interest in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there. In that vein I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. 
+I am interested in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there.
+
+In that vein I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. I have supported numerouse hackathons since.
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
