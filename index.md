@@ -49,7 +49,7 @@ I am a keen supporter of the [Unitary Foundattion](https://unitary.foundation/),
 
 I am interested in science communication and journalism, having hosted my own science themed radio show on [Freshair](https://freshair.org.uk/), Edinburgh's student radio station, and having been head of news there.
 
-In that vein I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. I have supported numerouse hackathons since.
+In that vein I, along with [Brian Coyle](https://briancoyle1.wixsite.com/briancoyle), organised [QuHackEd](https://quhackedinfo.wixsite.com/mysite), the first quantum computing hackathon in Scotland. I have supported numerous hackathons since.
 
 <p align="center"><iframe width="500" height="281" src="https://www.youtube.com/embed/TATYECOmv-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
