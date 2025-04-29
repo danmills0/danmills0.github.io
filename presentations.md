@@ -32,7 +32,7 @@ Talks ny my collaborators are also linked when a recording exists.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nPlq7_E5OwA?si=Qr9H5wkEjOrZr56I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-Part two was deliverd by [Silas Dilkes](https://scholar.google.co.uk/citations?hl=en&user=_sTo24kAAAAJ)
+Part two was deliverd by [Silas Dilkes](https://scholar.google.co.uk/citations?hl=en&user=_sTo24kAAAAJ).
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FJZXggugRYg?si=sVNbhCBdqvfqPjjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
