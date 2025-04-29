@@ -16,7 +16,7 @@ Talks ny my collaborators are also linked when a recording exists.
 
 [**FOSDEM 2025:** On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit](https://fosdem.org/2025/schedule/event/fosdem-2025-4481-on-chip-verified-quantum-computation-with-an-ion-trap-quantum-processing-unit/) (presented by [Cica Gustiani](https://scholar.google.com/citations?user=TbTC6RoAAAAJ&hl=en))
 
-<p align="center"><iframe width="560" height="315" src="https://mirror.cyberbits.eu/fosdem/2025/k4401/fosdem-2025-4481-on-chip-verified-quantum-computation-with-an-ion-trap-quantum-processing-unit.av1.webm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://mirror.cyberbits.eu/fosdem/2025/k4401/fosdem-2025-4481-on-chip-verified-quantum-computation-with-an-ion-trap-quantum-processing-unit.av1.webm" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 [**Quantum Benchmarks 2024:** Benchmarking the Quantinuum Stack]({{"/assets/teratec_2024.pdf"}}) [(Presentation)](https://teratec.eu/activites_quantiques/TQCI_240605_programme.html)
 
