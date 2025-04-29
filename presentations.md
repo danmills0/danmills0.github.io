@@ -37,7 +37,7 @@ Part two was deliverd by [Silas Dilkes](https://scholar.google.co.uk/citations?h
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FJZXggugRYg?si=sVNbhCBdqvfqPjjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-[**QPL 2022:** Volumetric Benchmarking of Error Mitigation with Qermit](presented by [Cristina Cirstoiu](https://scholar.google.com/citations?user=TbTC6RoAAAAJ&hl=en) and [Silas Dilkes](https://scholar.google.co.uk/citations?hl=en&user=_sTo24kAAAAJ))
+**QPL 2022:** Volumetric Benchmarking of Error Mitigation with Qermit (presented by [Cristina Cirstoiu](https://scholar.google.com/citations?user=TbTC6RoAAAAJ&hl=en) and [Silas Dilkes](https://scholar.google.co.uk/citations?hl=en&user=_sTo24kAAAAJ))
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/UN6eitc6658?si=zVciPYXPVRRmZ67B&amp;start=3821" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
