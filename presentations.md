@@ -6,6 +6,7 @@ layout: default
 
 Below are a selection of my public presentations, along with
 links to relevant PDFs, and recordings where they exist.
+Talks ny my collaborators are also linked when a recording exists.
 
 ***
 
@@ -30,6 +31,14 @@ links to relevant PDFs, and recordings where they exist.
 [**ICTP Hackathon 2023:** Introduction to Quantum Error Mitigation](https://youtu.be/nPlq7_E5OwA?feature=shared)
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nPlq7_E5OwA?si=Qr9H5wkEjOrZr56I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+Part two was deliverd by [Silas Dilkes](https://scholar.google.co.uk/citations?hl=en&user=_sTo24kAAAAJ))
+
+<p align="center"><iframe width="560" height="315" src="https://youtu.be/FJZXggugRYg?si=Nddzc5lDGrTuIK4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+[**QPL 2022:** Volumetric Benchmarking of Error Mitigation with Qermit](presented by [Cristina Cirstoiu](https://scholar.google.com/citations?user=TbTC6RoAAAAJ&hl=en) and [Silas Dilkes](https://scholar.google.co.uk/citations?hl=en&user=_sTo24kAAAAJ))
+
+<p align="center"><iframe width="560" height="315" src="https://youtu.be/UN6eitc6658?si=YASUilNrcMIhXQv4&t=3825" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 [**APS March 2022:** Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack]({{"/assets/APS_2022.pdf"}})
 
