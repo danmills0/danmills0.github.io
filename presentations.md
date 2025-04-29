@@ -65,6 +65,8 @@ links to relevant PDFs, and recordings where they exist.
 
 ## Posters
 
+[**QCTiP 2025:** Noise Aware Single Shot Error Mitigation with Coherent Pauli Checks]({{"/assets/posters/QCTiP2025.pdf"}})
+
 [**QIP 2023:** Distributing Circuits Over Heterogeneous, Modular Quantum Computing Network Architectures]({{"/assets/posters/qip2023.pdf"}})
 
 [**BQIT 2022:** Volumetric Benchmarking of Error Mitigation with Qermit]({{"/assets/posters/bqit2022.pdf"}})
