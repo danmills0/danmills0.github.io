@@ -6,7 +6,7 @@ layout: default
 
 Below are a selection of my public presentations, along with
 links to relevant PDFs, and recordings where they exist.
-Talks ny my collaborators are also linked when a recording exists.
+Talks by my collaborators are also linked when a recording exists.
 
 ***
 
