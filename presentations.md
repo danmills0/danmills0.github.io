@@ -11,6 +11,8 @@ links to relevant PDFs, and recordings where they exist.
 
 ## Talks
 
+[**QCTiP 2025:** On-Chip Verified Measurement Based Quantum Computation with an Ion-Trap QPU]({{"/assets/QCTiP2025OCVQC.pdf"}})
+
 [**FOSDEM 2025:** On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit](https://fosdem.org/2025/schedule/event/fosdem-2025-4481-on-chip-verified-quantum-computation-with-an-ion-trap-quantum-processing-unit/) (presented by [Cica Gustiani](https://scholar.google.com/citations?user=TbTC6RoAAAAJ&hl=en))
 
 <p align="center"><iframe width="560" height="315" src="https://mirror.cyberbits.eu/fosdem/2025/k4401/fosdem-2025-4481-on-chip-verified-quantum-computation-with-an-ion-trap-quantum-processing-unit.av1.webm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
