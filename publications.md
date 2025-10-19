@@ -6,7 +6,7 @@ layout: default
 
 Below are my published papers and preprints, in reverse chronological order, with some relevant but out of context figures.
 
-[**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**](https://arxiv.org/abs/2410.24133): [Accepted for publication in Physical Review Letters](https://journals.aps.org/prl/accepted/3807fY4eMc81b58bf372038263162a5bf6f5c79f8)
+[**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**](https://arxiv.org/abs/2410.24133): [Published in Physical Review Letters](https://journals.aps.org/prl/accepted/3807fY4eMc81b58bf372038263162a5bf6f5c79f8)
 
 ![ocvqc paper]({{"/assets/paper_pictures/ocvqc.png"}})
 
