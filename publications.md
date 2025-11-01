@@ -8,7 +8,7 @@ Below are my published papers and preprints, in reverse chronological order, wit
 
 [**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**](https://arxiv.org/abs/2410.24133): [Published in Physical Review Letters](https://journals.aps.org/prl/accepted/3807fY4eMc81b58bf372038263162a5bf6f5c79f8)
 
-You may also enjoy [this blog post]{https://www.quantinuum.com/blog/establishing-trust}.
+You may also enjoy [this blog post](https://www.quantinuum.com/blog/establishing-trust).
 
 ![ocvqc paper]({{"/assets/paper_pictures/ocvqc.png"}})
 
@@ -30,7 +30,7 @@ You may also enjoy [this blog post]{https://www.quantinuum.com/blog/establishing
 
 [**Application-Motivated, Holistic Benchmarking of a Full Quantum Computing Stack**](https://arxiv.org/abs/2006.01273): [Published in Quantum](https://quantum-journal.org/papers/q-2021-03-22-415/)
 
-You may also enjoy [this perspective]{https://quantum-journal.org/views/qv-2021-04-26-52/}.
+You may also enjoy [this perspective](https://quantum-journal.org/views/qv-2021-04-26-52/).
 
 ![benchmarking paper]({{"/assets/paper_pictures/benchmarking.png"}})
 
