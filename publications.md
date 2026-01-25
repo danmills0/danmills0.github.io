@@ -6,6 +6,10 @@ layout: default
 
 Below are my published papers and preprints, in reverse chronological order, with some relevant but out of context figures.
 
+[**Deep Learning Approaches to Quantum Error Mitigation**](https://arxiv.org/abs/2601.14226)
+
+![ml em paper]({{"/assets/paper_pictures/deep_learning.png"}})
+
 [**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**](https://arxiv.org/abs/2410.24133): [Published in Physical Review Letters](https://journals.aps.org/prl/accepted/3807fY4eMc81b58bf372038263162a5bf6f5c79f8)
 
 You may enjoy [this blog post](https://www.quantinuum.com/blog/establishing-trust) or [this article](https://phys.org/news/2025-11-chip-cryptographic-protocol-quantum-results.html) on the result.
