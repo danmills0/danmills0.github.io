@@ -6,6 +6,10 @@ layout: default
 
 Below are my published papers and preprints, in reverse chronological order, with some relevant but out of context figures.
 
+[**Reinforcement Learning for Adaptive Composition of Quantum Circuit Optimisation Passes**](https://arxiv.org/abs/2601.21629)
+
+![ml optimisation paper]({{"/assets/paper_pictures/ml_for_optimisation.png"}})
+
 [**Deep Learning Approaches to Quantum Error Mitigation**](https://arxiv.org/abs/2601.14226)
 
 ![ml em paper]({{"/assets/paper_pictures/deep_learning.png"}})
