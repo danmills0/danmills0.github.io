@@ -23,22 +23,22 @@ the loss of many of these things, and a decline of quality of life in the north.
 
 So this book can be read as rags-to-riches, or the opposite. The first section can 
 be accused of being told through rose tinted glasses, although the author 
-describes how he may have overlooked his poverty due to his being a child. He 
-makes clear that he would not have wanted to send his children to work as mines
-even though the community protested their closure. He also looks back at his time
-at school with anything but rose tinted glasses. The central portion of the book
-is the most vivid, telling the story of his discrimination while in london,
+describes how he may have overlooked his poverty due to his being a child. 
+Similarly, he makes clear that he would not have wanted to send his children to work 
+as miners even though the community protested their closure. He also looks back at 
+his time at school with anything but rose tinted glasses. The central portion of the 
+book is the most vivid, telling the story of his discrimination while in london,
 his travels around the world, and his and his future wife's love story.
 For me the most thought provoking portion is the last section.
 
 A lot of ground is covered in a relatively small number of pages at end of the book, 
-but I'll focus on some critiques which stuck with me. Fallow's most 
+but I'll focus on some critiques the author makes which stuck with me. Fallow's most 
 interesting critique is of the dependence of some sections of society on the state.
 He takes issue, for example, with the provision of methadone by the state to 
 treat opioid misuse, and with how little extra can be gained financially
 from working versus claiming benefits. This is of course extremely subtle. 
 Are drug addicts not more likely to quit if they receive opioids
-from the state rather that drug dealers who profit from there addiction? How much 
+from the state rather than drug dealers who profit from their addiction? How much 
 poorer should you be if you lose your job, particularly if it is of no fault of 
 your own? These are arguments which will not be resolved easily but Fallow does well 
 at articulating his point, in particular that this has a disproportionate affect in 
@@ -69,7 +69,7 @@ did fail Fallow, who left school illiterate. While I too was born
 to a working class family, the education I received was of very high standard
 and allowed me to greatly improve my circumstances. It behoves me to thank
 the UK education system, not for naught, but for almost everything. This is a 
-striking example of the disparity in opportunities, with me being born only a little 
+striking example of disparity in opportunities, with me being born only a little 
 while later and only a little further south. If we know how to do it
 in one part of the country we must surely be able to do it in others.
 
