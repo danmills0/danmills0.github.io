@@ -1,7 +1,6 @@
-# theme: jekyll-theme-minimal
 theme: minima
 title: Dan Mills
-email: daniel.mills@quantinuum.com
+email: mills.dan@proton.me
 
 # basic options
 author: Dan Mills
@@ -10,7 +9,4 @@ description: Personal website of Dan Mills
 # Build settings
 markdown: kramdown
 
-#github_username: danmills0
 linkedin_username: dan-mills
-# facebook_username: daniel.mills.7965
-#twitter_username: danmills0
