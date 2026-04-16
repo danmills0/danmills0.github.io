@@ -4,7 +4,7 @@ title: Dragged Up Proppa - Pip Fallow
 category: Book Review
 ---
 
-[Dragged Up Proppa]((https://www.goodreads.com/book/show/121202719-dragged-up-proppa))
+[Dragged Up Proppa](https://www.goodreads.com/book/show/121202719-dragged-up-proppa)
 can be read in three parts. In the first Fallow describes his modest 
 early life in County Durham; son of a coal miner, whose mother would often struggle
 to pay the bills. The middle of the book describes a period of travel around
@@ -17,7 +17,7 @@ Read like this it sounds like a rags-to-riches memoir, but I am being
 deliberately reductive. In fact the first third of the book describes great wealth,
 if not financial. He describes friendships and a particular excitement
 at the development and acquisition of new technologies. Notably he describes a
-wealth of good role models, in particular hard working men such as his father,
+wealth of role models, in particular hard working men such as his father,
 and a community which always has each others back. The final section details
 the loss of many of these things, and a decline of quality of life in the north.
 
@@ -29,26 +29,27 @@ as miners even though the community protested their closure. He also looks back 
 his time at school with anything but rose tinted glasses. The central portion of the 
 book is the most vivid, telling the story of his discrimination while in london,
 his travels around the world, and his and his future wife's love story.
-For me the most thought provoking portion is the last section.
 
-A lot of ground is covered in a relatively small number of pages at end of the book, 
-but I'll focus on some critiques the author makes which stuck with me. Fallow's most 
-interesting critique is of the dependence of some sections of society on the state.
-He takes issue, for example, with the provision of methadone by the state to 
-treat opioid misuse, and with how little extra can be gained financially
-from working versus claiming benefits. This is of course extremely subtle. 
-Are drug addicts not more likely to quit if they receive opioids
-from the state rather than drug dealers who profit from their addiction? How much 
-poorer should you be if you lose your job, particularly if it is of no fault of 
-your own? These are arguments which will not be resolved easily but Fallow does well 
-at articulating his point, in particular that this has a disproportionate affect in 
-the north where wages are low.
+A lot of ground is covered in a relatively small number of pages at end of the book. 
+Fallow critiques the dependence of some sections of society 
+on the state. He takes issue, for example, with the provision of methadone by the 
+state to treat opioid misuse, and with how little extra can be gained financially
+from working versus claiming benefits. These are relatively uncreative points and
+these arguments have been had publicly many times. 
+If you're end goal is to reduce opioid dependency, are addicts not more likely to quit if they receive opioids
+from the state rather than drug dealers who profit from their addiction? Fallow 
+suggests that state dependency has a disproportionate affect in 
+the north where wages are low and I would have liked to have seen this point fleshed 
+out. Overall, his claims are not well supported by
+statistics. A lot of these points are also weakened by his earlier admission 
+that his first child and their mother were supported by the state while he was away.
 
 This point feeds into a wider point that people do not take responsibility for their
-actions as they did in the past. He also criticises what might sometimes be called 
+actions as they did in the past. 
+He also criticises what might sometimes be called 
 the 'virtue signalling' of those working in food banks in particular, believing that 
 doing so supports an institution which should not exist. Interestingly these are 
-similar points to those arrived at in [Poverty Safari](https://www.goodreads.com/book/show/36317638-poverty-safari?from_search=true&from_srp=true&qid=rTUUmRT33n&rank=1),
+both similar points to those arrived at in [Poverty Safari](https://www.goodreads.com/book/show/36317638-poverty-safari?from_search=true&from_srp=true&qid=rTUUmRT33n&rank=1),
 another exceptional book by a working class author, in that occasion from Scotland.
 This is another example of the small c conservatism of the working class which,
 while extensively written about now, was forgotten about for some time.
@@ -73,10 +74,14 @@ striking example of disparity in opportunities, with me being born only a little
 while later and only a little further south. If we know how to do it
 in one part of the country we must surely be able to do it in others.
 
-In conclusion, this is an exceptionally well written and engaging book telling the 
+In conclusion, this is an well written and engaging book telling the 
 story of an interesting and special, yet widely relatable life.
 It is a great case study of the experiences of a huge number of people in this 
-country. The Labour party has always been a union of small c conservative working 
+country. The last section is effectively a selection of anecdotes and lacks the 
+academic rigor to be taken too seriously, but 
+Fallow effectively admits that he is somewhat rambling here. This book adds to the 
+recent selection of works studying the Labour party and the 'red wall'. The Labour 
+party has always been a union of small c conservative working 
 class voters, and liberal ideologists. I do not myself think this is an
 'uncomfortable union', but this book does a great job of conveying what is presently 
 the lesser told story of the two groups in that union. 

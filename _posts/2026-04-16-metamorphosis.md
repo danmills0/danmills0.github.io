@@ -1,0 +1,19 @@
+---
+layout: post
+title: The Metamorphosis - Franz Kafka
+category: Book Review
+---
+
+Of course a huge amount has been written about [The Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis#CommunityReviews) and I will not be able to add anything novel. For what it's worth, and since I have the most insights into this topic, I'll linger on what the book has to say about the role of men in particular.
+
+The books opens with the main character Gregor having been transformed into a giant insect. The first things that concerns him is that this transformation has caused him to oversleep and miss his train. Gregor is very proud of his ability to support his family and it is great concern to him that he is not able to attend work. Being seriously unwell is of a lesser concern.
+
+Gregor's employer quickly visits the house to establish why Gregor has not made it to work. This man is referred to only as `Mr Manager' and indeed it is not clear what he does for the company other than manage others. This man derives significantly more value from his work that Gregor, even though it involves trivial tasks such as rushing out to track down an employee who is only mildly late for work. This is compared to Gregor who appears to be a relatively successful sales person, creating a lot of value for the company.
+
+Gregor's father features heavily, and it seems Gregor is somewhat of a metaphor for what his father has already been through. Previously the owner of a successful business, he is now unemployed and reliant on his wife and children. He regrets this and is rude to his family, complaining that his wife and daughter do not take care of him in the way that he would like. Later in the book Gregor will do the same, complaining about the way his room is kept, although neither in the case of Gregor nor his father do they attempt to change their circumstances. Instead they both mope around being looked after by the women.
+
+The other men that appear in the book are three lodgers who stay in the flat with the family. They stay together in one room, so seem unlikely to be experience great success in life themselves. However they too look down on the father in particular, refusing to pay the rent and expecting to be fed none the less. Like the manager, they regard themselves as superior for reasons the reader cannot understand while the other men in the book seem to accept this. This is until the end of the book when the father expels the men, coming out on the other side of his own rise and fall, and rise again. At that point in the book the reader takes a sigh of relief that someone has taken proactive action.
+
+Gregor does not get his own chance to rise again, and dies from an injury his father inflicts upon him. Once Gregor has died and the family are free of the insect, they travel about the city considering their new life without Gregor. They realise their prospects are quite good, with each of them being employed. Perhaps they had not needed Gregor to take care of them in the fist place, and this was something he inflicted upon them?
+
+To summarise, the book acknowledges that men derive a lot of self worth from their work and their ability to provide for their family. In neither the case of Gregor or his father does this make them happy, and indeed it seems to hold the family back. So then while men may or may not support their family financially, that is far from the only support they can and should provide. Gregor's father finally throws of his self imposed defeatism in the end, rejecting the implicit hierarchy imposed by the lodgers. Gregor never does this, always imagining he will stick it to the manager when the time is right...
