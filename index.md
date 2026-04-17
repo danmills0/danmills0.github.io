@@ -45,7 +45,7 @@ My thesis was titled [Benchmarking, Verifying and Utilising Near Term Quantum Te
 
 ## Other Interests
 
-I am a keen supporter of the [Unitary Foundattion](https://unitary.foundation/), and am a member of the advisory board.
+I am a keen supporter of the [Unitary Foundation](https://unitary.foundation/), and am a member of the advisory board.
 
 I am interested in science communication and journalism, having hosted my own science themed radio show on Edinburgh's student radio station, and having been head of news there.
 
@@ -55,7 +55,7 @@ In that vein I, along with [Brian Coyle](https://briancoyle1.wixsite.com/brianco
 
 In my own time I'm a keen maker and have worked in [the University of Edinburgh’s community makerspace](https://www.ucreatestudio.is.ed.ac.uk/) as a technician and marketing manager. I also enjoy a selection of sports, in particular cycling, swimming, football, climbing and squash. I'm happy to give you a game of pretty much anything though!
 
-I enjoy reading, and am hoping to do more writing. My [writings](writing) include book reviews and reflections on govement science policy, amoungst other things.
+I enjoy reading, and am hoping to do more writing. My [writings](writing) include book reviews and reflections on government science policy, amongst other things. In general I admire good story telling. In that spirit, if you'd like to know what I'm reading and watching I will endeavour to keep my [Goodreads](https://www.goodreads.com/user/show/112353520-daniel-mills) and [Letterboxd](https://letterboxd.com/danmills/) accounts up to date.
 
 ***
 
