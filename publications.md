@@ -6,6 +6,10 @@ layout: default
 
 Below are my published papers and preprints, in reverse chronological order, with some relevant but out of context figures.
 
+[**Benchmarking the computational power of quantum computers**](https://arxiv.org/abs/2609.12146)
+
+![quops paper]({{"/assets/paper_pictures/quops.png"}})
+
 [**Reinforcement Learning for Adaptive Composition of Quantum Circuit Optimisation Passes**](https://arxiv.org/abs/2601.21629)
 
 ![ml optimisation paper]({{"/assets/paper_pictures/ml_for_optimisation.png"}})
