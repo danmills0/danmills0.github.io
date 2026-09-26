@@ -12,6 +12,8 @@ Talks by my collaborators are also linked when a recording exists.
 
 ## Talks
 
+[**Quantum Fringe 2026 - Verification Benchmarking Framework Workshop:** On-Chip Verified Measurement Based Quantum Computation: State-of-the-art and Future Directions]({{"/assets/Fringe2026OCVQC.pdf"}})
+
 [**QCTiP 2025:** On-Chip Verified Measurement Based Quantum Computation with an Ion-Trap QPU]({{"/assets/QCTIP2025OCVQC.pdf"}})
 
 [**FOSDEM 2025:** On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit](https://fosdem.org/2025/schedule/event/fosdem-2025-4481-on-chip-verified-quantum-computation-with-an-ion-trap-quantum-processing-unit/) (presented by [Cica Gustiani](https://scholar.google.com/citations?user=TbTC6RoAAAAJ&hl=en))
