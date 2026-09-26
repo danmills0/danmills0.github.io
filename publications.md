@@ -8,6 +8,8 @@ Below are my published papers and preprints, in reverse chronological order, wit
 
 [**Benchmarking the computational power of quantum computers**](https://arxiv.org/abs/2609.12146)
 
+You may enjoy [this blog post](https://www.quantinuum.com/blog/introducing-the-quantum-universal-operations-performance-system-quops#) or [this article](https://www.newscientist.com/article/2589378-we-may-finally-have-a-way-to-rate-a-quantum-computers-usefulness/#Echobox=1789514099) on the result.
+
 ![quops paper]({{"/assets/paper_pictures/quops.png"}})
 
 [**Reinforcement Learning for Adaptive Composition of Quantum Circuit Optimisation Passes**](https://arxiv.org/abs/2601.21629)
